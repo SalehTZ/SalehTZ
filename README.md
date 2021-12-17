@@ -15,7 +15,7 @@
 const mr_tz = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "Flutter", "C",  "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["tech", "app dev", "photography"],
     technologies: {
         mobileApp: {
             native: ["Native Android Development", "Flutter Android Development"]
