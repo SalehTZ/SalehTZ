@@ -16,7 +16,6 @@
 
 ```c++
 const mr_tz = {
-    pronouns: "He" | "Him",
     code: ["Python", "Java", "Flutter", "C",  "C++"],
     askMeAbout: ["tech", "app dev", "photography"],
     technologies: {
