@@ -1,3 +1,8 @@
+---
+<a href="https://steamcommunity.com/id/MR_TZ"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://instagram.com/mr_tz.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+---
+
 <h2>
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
  Namaste 🙏🏻, I'm Mohammad Saleh! 
@@ -27,6 +32,13 @@ const mr_tz = {
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+<br>
+
+---
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+
+<br>
+
 ### Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
