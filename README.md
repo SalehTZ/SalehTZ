@@ -12,22 +12,22 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little about me...  
 
 ```c++
 const mr_tz = {
-    code: ["Python", "Java", "Flutter", "C",  "C++"],
-    askMeAbout: ["tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: {
-            native: ["Native Android Development", "Flutter Android Development"]
-        },
-    },
-    currentFocus: "Android Mobile App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+  code: ["Python", "Java", "Flutter", "C",  "C++"],
+  askMeAbout: ["tech", "app dev", "photography"],
+  technologies: {
+      mobileApp: {
+          native: ["Native Android Development", "Flutter Android Development"]
+      },
+  },
+  currentFocus: "Android Mobile App Development",
+  funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+### Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
