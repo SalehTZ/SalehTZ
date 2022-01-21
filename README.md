@@ -1,7 +1,4 @@
----
-<a href="https://steamcommunity.com/id/MR_TZ"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://instagram.com/mr_tz.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
----
+
 
 <h2>
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
@@ -17,7 +14,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> A little about me...  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 ```c++
 const mr_tz = {
@@ -35,7 +32,11 @@ const mr_tz = {
 <br>
 
 ---
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+### Find me on :
+<a href="https://steamcommunity.com/id/MR_TZ"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://instagram.com/mr_tz.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+---
+
 
 <br>
 
