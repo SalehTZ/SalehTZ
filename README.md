@@ -33,8 +33,8 @@ const mr_tz = {
 
 ---
 ### Find me on :
-<a href="https://steamcommunity.com/id/MR_TZ"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://instagram.com/mr_tz.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/MR_TZ"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 ---
 
 
