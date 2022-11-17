@@ -1,9 +1,12 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=700&vCenter=true&multiline=true&width=450&height=70&lines=Hi%2C+I'm+Mohammad+Saleh;I+love+codding%2C+especially+in+Flutter)](https://git.io/typing-svg)
 
+<!--
 <h2>
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
  Namaste 🙏🏻, I'm Mohammad Saleh! 
  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+ -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"> -->
 <p>
  <em>
