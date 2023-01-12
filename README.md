@@ -74,7 +74,7 @@ const mr_tz = {
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SalehTZ&count_private=true&show_icons=true&include_all_commits=true&theme=merko)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=SalehTZ&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/SalehTZ)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&hide=TeX&layout=compact&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&hide=TeX&layout=compact&theme=merko)](https://github.com/SalehTZ)
