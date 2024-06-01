@@ -14,18 +14,31 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalehTZ&show_icons=true&theme=tokyonight&hide=prs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&langs_count=9&layout=compact&theme=tokyonight">
-</p>
-
-## About Me
+## 🧑🏻 About Me
 I'm Saleh Talebizadeh, a passionate and dedicated Flutter Developer with a strong focus on Flutter development. I have a proven track record in the computer software industry and am committed to continuous learning and staying up-to-date with the latest technologies. I'm actively seeking opportunities to excel in the field of Flutter development.
 
-## Skills
+<!-- ```psst👀, did you know I love coffee? You can consider donation if you love coffee too.```
+
+Tron/USDT(trc20): ```TACT68nhFLjeGSh6z1Yw9BDbRfKTs4EDJb```
+
+BTC: ```bc1qxl437ktmwpmsyca4qze5f4l6xka0mlrn2xakw6``` -->
+
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&langs_count=9&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=salehtz&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehtz&theme=dark&hide_border=false">
+</p>
+
+## 🔮 Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=222222)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma&logoColor=FFFFFF)
@@ -36,7 +49,7 @@ I'm Saleh Talebizadeh, a passionate and dedicated Flutter Developer with a stron
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=222222)
 
-## Education
+## 🧑🏻‍🎓 Education
 - **Bachelor's Degree**: Computer Science
   - Shahid Bahonar University, Kerman, Iran <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
   - Sep 2016 - Sep 2020
@@ -55,18 +68,20 @@ I'm Saleh Talebizadeh, a passionate and dedicated Flutter Developer with a stron
   <a href="https://www.linkedin.com/in/salehtz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=salehtz&label=Profile%20Views&color=6&icon=1&pretty=true" />
+  </a>
 </div>
 
 
 <br>
 
-### Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+### 🦜 Here are some [parrots](https://cultofthepartyparrot.com)
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
@@ -88,4 +103,7 @@ I'm Saleh Talebizadeh, a passionate and dedicated Flutter Developer with a stron
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
