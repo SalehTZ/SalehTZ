@@ -68,9 +68,9 @@ BTC: ```bc1qxl437ktmwpmsyca4qze5f4l6xka0mlrn2xakw6``` -->
   <a href="https://www.linkedin.com/in/salehtz/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://visitcount.itsvg.in">
+<!--   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=salehtz&label=Profile%20Views&color=6&icon=1&pretty=true" />
-  </a>
+  </a> -->
 </div>
 
 
