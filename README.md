@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="salehtz_dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="salehtz_light_mode.svg" />
+  <img alt="salehtz's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
@@ -23,13 +29,6 @@ Tron/USDT(trc20): ```TACT68nhFLjeGSh6z1Yw9BDbRfKTs4EDJb```
 
 BTC: ```bc1qxl437ktmwpmsyca4qze5f4l6xka0mlrn2xakw6``` -->
 
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&langs_count=9&layout=compact&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=salehtz&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehtz&theme=dark&hide_border=false">
-</p>
 
 ## 🔮 Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=FFFFFF)
@@ -73,6 +72,17 @@ BTC: ```bc1qxl437ktmwpmsyca4qze5f4l6xka0mlrn2xakw6``` -->
   </a> -->
 </div>
 
+
+<br>
+
+## 📊 GitHub Stats:
+<p align="center">
+  <!-- THESE ARE BROKEN
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalehTZ&langs_count=9&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=salehtz&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salehtz&theme=dark&hide_border=false">
+</p>
 
 <br>
 
